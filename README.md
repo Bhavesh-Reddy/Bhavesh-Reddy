@@ -1,59 +1,91 @@
 <div align="center">
-  <img src="https://github.com/Bhavesh-Reddy.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #58A6FF;">
+  <img src="https://github.com/Bhavesh-Reddy.png" width="180" height="180" style="border-radius: 50%; border: 5px solid #58A6FF; box-shadow: 0 0 20px rgba(88, 166, 255, 0.5);">
+
+  <h1 style="font-size: 3rem; margin-bottom: 0;">Hi, I'm Bhavesh Reddy ⚡</h1>
   
-  # Hi, I'm Bhavesh Reddy ⚡
-  
-  <h3>Architecting Autonomous Systems & Next-Gen AI</h3>
+  <h3 style="color: #8b949e;">Architecting Autonomous Systems & Next-Gen AI</h3>
 
   <p>
-    <b>Senior Developer @ SDC</b> | <b>IIT Madras BS Data Science</b> | <b>Edge AI Innovator</b>
+    <b>Senior Developer @ SDC</b> &nbsp;|&nbsp; <b>IIT Madras BS Data Science</b> &nbsp;|&nbsp; <b>Edge AI Innovator</b>
   </p>
   
   <p>
-    I engineer systems that exist on the bleeding edge. From building <b>Deep Packet Inspection (DPI)</b> models for network security to designing <b>autonomous drone navigation</b> pipelines, I bridge the gap between full-stack engineering and complex AI architectures.
+    <a href="https://www.linkedin.com/in/bhavesh-b-n">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:bhaveshbn2020@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/Bhavesh-Reddy">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
   </p>
-
-  <a href="https://www.linkedin.com/in/bhavesh-b-n">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bhaveshbn2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </div>
 
 <br>
 
-## 🚀 The Flex (Highlights)
+## 👨‍💻 The Engineer's Narrative
 
-* [cite_start]**👨‍💻 Senior Developer:** Currently leading development at **Software Development Cell (SDC)**, managing campus-wide systems like the *Vehicle Booking System* and *Real-Time Late Attendance System*.
-* **🧠 Dual-Track Engineer:** Pursuing **B.E. [cite_start]CSE** at PSG iTech (8.1 CGPA) while simultaneously crushing a **B.S. in Data Science** at **IIT Madras**[cite: 21, 22, 23].
-* **🏆 State-of-the-Art Breaker:** Developed **MonoSight**, a vision model that outperforms **MiDaS and ZoeDepth** in low-light conditions (<5 lux)[cite: 19].
-* [cite_start]**🛡️ Security Specialist:** **Cisco Certified** in Cybersecurity with practical experience in AI-powered packet sniffing[cite: 16, 32].
+> *"Code should interact with the physical world."*
 
----
+[cite_start]I am a dual-track engineering student pursuing a **B.E. in Computer Science** at PSG iTech alongside a **B.S. in Data Science** from **IIT Madras**[cite: 21, 23].
 
-## 🛠️ The Arsenal
-
-| Domain | Tech Stack |
-| :--- | :--- |
-| **🧠 AI & ML** | [cite_start]TensorFlow, PyTorch, Mistral-7B, OpenCV, Kalman Filtering [cite: 16, 18, 19] |
-| **🚁 Autonomous** | [cite_start]Monocular Depth Estimation, GNSS + NavIC, Drone Tech [cite: 18, 19, 30] |
-| **💻 Full Stack** | [cite_start]React, Node.js, MongoDB, MySQL, PHP, AWS [cite: 11, 13, 16, 30] |
-| **🌐 Languages** | [cite_start]Python, C, Java, JavaScript + (Polyglot: English, Tamil, Telugu, Marathi, Hindi) [cite: 30, 31] |
+While I have a strong foundation in full-stack development, my true passion lies in **Edge AI and Autonomous Systems**. Whether it's designing low-light vision pipelines for drones or securing networks with AI-driven packet sniffing, I build systems that are robust, scalable, and intelligent.
 
 ---
 
-## ⚡ Featured Projects
+## 🛠️ Tech Stack & Arsenal
 
-| Project | The "Flex" (What makes it cool) |
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+</div>
+
+---
+
+## 💼 Professional Experience
+
+### **Senior Developer** | [cite_start]*Software Development Cell (SDC)* [cite: 7]
+*Sep 2024 - Present*
+
+* [cite_start]**Campus Scale:** Engineered the **Vehicle Booking System** and **Real-Time Late Attendance System**, actively used by faculty to streamline campus logistics[cite: 10, 12].
+* [cite_start]**Architecture:** Built scalable backends using **Node.js & MongoDB** while ensuring responsive interfaces[cite: 11, 13].
+
+---
+
+## 🚀 Impact & Innovations
+
+| Project | The Innovation (Why it matters) |
 | :--- | :--- |
-| **MonoSight** <br> *(GDG Hacktonic 2.0)* | A low-light monocular depth estimation pipeline that sees in the dark. [cite_start]Outperformed industry standards using **PyTorch & OpenCV**[cite: 19]. |
-| **Secure Sphere** <br> *(SAP Internal Hackfest)* | An AI-powered **DPI Packet Sniffing** model that detects network threats in real-time. [cite_start]Built with **React, Node.js, and AWS**[cite: 15, 16]. |
-| **DocSeek / NavSafe** <br> *(Smart India Hackathon)* | [cite_start]A serverless navigation prototype integrating **GNSS + NavIC** with **Kalman Filtering** for precise tracking on Google Maps[cite: 17, 18]. |
-| **AccessEd** | Multimodal assistive tech validated for real-world deployment. Features a **98.45% accuracy** gesture recognition pipeline. |
+| **MonoSight** <br> *(GDG Hacktonic 2.0)* | 🌑 **Night Vision AI:** A low-light monocular depth estimation model. [cite_start]It uses PyTorch to outperform **MiDaS and ZoeDepth** in conditions <5 lux[cite: 19]. |
+| **Secure Sphere** <br> *(SAP Hackfest)* | [cite_start]🛡️ **AI Security:** An intelligent **Deep Packet Inspection (DPI)** model that detects network threats in real-time using TensorFlow[cite: 15, 16]. |
+| **DocSeek / NavSafe** <br> *(SIH 2025)* | [cite_start]📍 **Precision Nav:** A serverless navigation prototype integrating **GNSS + NavIC** with Kalman filtering for high-accuracy tracking[cite: 17, 18]. |
+| **AccessEd** <br> *(Assistive Tech)* | 🤝 **Social Impact:** Validated **TRL-7** assistive tech for the speech-impaired. Features a **98.45% accuracy** gesture recognition pipeline. |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavesh-Reddy&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh-Reddy&layout=compact&theme=radical&hide_border=true" />
+</div>
 
 ---
 
 <div align="center">
-  <i>"Talk is cheap. Show me the code."</i>
+  <small><i>"Building the future, one commit at a time."</i></small>
 </div>
